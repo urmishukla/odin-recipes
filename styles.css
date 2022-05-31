@@ -5,7 +5,7 @@ html
     padding: 20px;
 }
 
-h1
+h1, h3
 {
     background-color: rgb(21, 173, 179);
     text-align: center;
