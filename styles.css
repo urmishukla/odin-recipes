@@ -1,5 +1,50 @@
 html
 {
-    background-color: lightblue;
+    background-color: rgb(135, 239, 243);
+    font-family: "Helvetica", "Times New Roman" sans-serif;
+    padding: 20px;
 }
 
+h1
+{
+    background-color: rgb(21, 173, 179);
+    text-align: center;
+    width: 50%;
+    color: white;
+}
+
+img
+{
+    width: 50%;
+}
+
+html#pink
+{
+    background-color: rgb(239, 135, 243);
+}
+
+#pink h1, #pink h3
+{
+    padding: 5px;
+    background-color: rgb(179, 21, 171);
+}
+
+html#yellow
+{
+    background-color: rgb(241, 243, 135);
+}
+
+#yellow h1, #yellow h3
+{
+    background-color: rgb(207, 194, 8);
+}
+
+html#green
+{
+    background-color: rgb(178, 243, 135);
+}
+
+#green h1, #green h3
+{
+    background-color: rgb(92, 179, 21);
+}
